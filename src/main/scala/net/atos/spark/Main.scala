@@ -3,7 +3,7 @@ package net.atos.spark
 import net.atos.spark.config.Constant
 import net.atos.spark.service.LogicBase
 
-object SparkWithConfFile {
+object Main {
 
 
   def main(args:Array[String]): Unit ={
