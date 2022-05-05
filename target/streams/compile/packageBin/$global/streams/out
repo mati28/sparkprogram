@@ -1,0 +1,25 @@
+[0m[[0minfo[0m] [0mPackaging /data/bigdata/cca/sparkbay/sparkprogram/target/scala-2.11/sales-analytics_2.11-0.1.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	net/atos/spark/config/Constant$.class[0m
+[0m[[0mdebug[0m] [0m	  /data/bigdata/cca/sparkbay/sparkprogram/target/scala-2.11/classes/net/atos/spark/config/Constant$.class[0m
+[0m[[0mdebug[0m] [0m	net/atos/spark/config[0m
+[0m[[0mdebug[0m] [0m	  /data/bigdata/cca/sparkbay/sparkprogram/target/scala-2.11/classes/net/atos/spark/config[0m
+[0m[[0mdebug[0m] [0m	net[0m
+[0m[[0mdebug[0m] [0m	  /data/bigdata/cca/sparkbay/sparkprogram/target/scala-2.11/classes/net[0m
+[0m[[0mdebug[0m] [0m	net/atos/spark/config/Constant.class[0m
+[0m[[0mdebug[0m] [0m	  /data/bigdata/cca/sparkbay/sparkprogram/target/scala-2.11/classes/net/atos/spark/config/Constant.class[0m
+[0m[[0mdebug[0m] [0m	net/atos/spark[0m
+[0m[[0mdebug[0m] [0m	  /data/bigdata/cca/sparkbay/sparkprogram/target/scala-2.11/classes/net/atos/spark[0m
+[0m[[0mdebug[0m] [0m	net/atos/spark/service[0m
+[0m[[0mdebug[0m] [0m	  /data/bigdata/cca/sparkbay/sparkprogram/target/scala-2.11/classes/net/atos/spark/service[0m
+[0m[[0mdebug[0m] [0m	net/atos[0m
+[0m[[0mdebug[0m] [0m	  /data/bigdata/cca/sparkbay/sparkprogram/target/scala-2.11/classes/net/atos[0m
+[0m[[0mdebug[0m] [0m	net/atos/spark/service/LogicBase.class[0m
+[0m[[0mdebug[0m] [0m	  /data/bigdata/cca/sparkbay/sparkprogram/target/scala-2.11/classes/net/atos/spark/service/LogicBase.class[0m
+[0m[[0mdebug[0m] [0m	net/atos/spark/SparkWithConfFile$.class[0m
+[0m[[0mdebug[0m] [0m	  /data/bigdata/cca/sparkbay/sparkprogram/target/scala-2.11/classes/net/atos/spark/SparkWithConfFile$.class[0m
+[0m[[0mdebug[0m] [0m	net/atos/spark/SparkWithConfFile.class[0m
+[0m[[0mdebug[0m] [0m	  /data/bigdata/cca/sparkbay/sparkprogram/target/scala-2.11/classes/net/atos/spark/SparkWithConfFile.class[0m
+[0m[[0mdebug[0m] [0m	net/atos/spark/service/LogicBase$.class[0m
+[0m[[0mdebug[0m] [0m	  /data/bigdata/cca/sparkbay/sparkprogram/target/scala-2.11/classes/net/atos/spark/service/LogicBase$.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
