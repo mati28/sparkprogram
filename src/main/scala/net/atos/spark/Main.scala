@@ -5,7 +5,6 @@ import net.atos.spark.service.LogicBase
 
 object Main {
 
-
   def main(args:Array[String]): Unit ={
 
     val kpi = args(0)
@@ -13,7 +12,7 @@ object Main {
 
     kpi match {
       case "revenue" => LogicBase.revenueByDepartment
-      case "count"   => LogicBase.mostSoldItems
+      case "ca"   => LogicBase.mostSoldItems
       case _  => println("unknown")
     }
     Constant.spark.stop()
