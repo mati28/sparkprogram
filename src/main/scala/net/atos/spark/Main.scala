@@ -11,8 +11,8 @@ object Main {
 
 
     kpi match {
-      case "revenue" => LogicBase.revenueByDepartment
-      case "ca"   => LogicBase.mostSoldItems
+      case "revenue_by_dep" => LogicBase.revenueByDepartment
+      case "revenue_by_prod"   => LogicBase.mostSoldItems
       case _  => println("unknown")
     }
     Constant.spark.stop()
